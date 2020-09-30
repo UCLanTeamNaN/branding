@@ -1,3 +1,4 @@
+![colours](https://github.com/UCLanTeamNaN/branding/blob/master/banners/nan_text_banner.png?raw=true "Team Banner")
 # branding
 Team NaN Branding assets
 
